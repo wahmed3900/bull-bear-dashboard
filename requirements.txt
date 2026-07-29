@@ -1,0 +1,6 @@
+flask
+yfinance
+pandas
+stripe
+pymongo
+python-dotenv
